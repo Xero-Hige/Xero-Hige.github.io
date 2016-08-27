@@ -6,4 +6,4 @@ Contents:
 .. toctree::
     :maxdepth: 1
 
-        Notebook Hello World </RST_Multilang/HelloWorld.rst>
+        </RST_Multilang/HelloWorld.rst>
