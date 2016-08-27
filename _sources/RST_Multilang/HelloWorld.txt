@@ -25,4 +25,4 @@ Hello World
 
     </script>
 
-    <iframe src=https://xero-hige.github.io/_static/multiHelloWorld.html" height="800px" width="100%"/>
+    <iframe src="/_static/multiHelloWorld.html" height="800px" width="100%"/>
