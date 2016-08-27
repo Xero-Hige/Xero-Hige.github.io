@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Noteboo's documentation!
+Notebooks
 ===================================
 
 Contents:
@@ -11,7 +11,10 @@ Contents:
 .. toctree::
     :maxdepth: 1
 
-        Hello Wold <clase1.rst>
+        Bash <Index_Bash.rst>
+        C <Index_C.rst>
+        Python 3 <Index_Python3.rst>
+        Multiple languages <Index_Multi.rst>
 
 
 Indices and tables

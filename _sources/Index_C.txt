@@ -1,0 +1,7 @@
+C Lang
+==============
+
+Contents:
+
+.. toctree::
+    :maxdepth: 1
